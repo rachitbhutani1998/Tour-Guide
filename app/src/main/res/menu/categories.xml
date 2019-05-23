@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cinema_item"
+        android:title="Cinemas" />
+    <item
+        android:id="@+id/clubs_item"
+        android:title="Clubs" />
+    <item
+        android:id="@+id/hotels_item"
+        android:title="Hotels" />
+    <item
+        android:id="@+id/restaurant_item"
+        android:title="Restaurants" />
+    <item
+        android:id="@+id/spots_item"
+        android:title="Tourist Spots" />
+</menu>
